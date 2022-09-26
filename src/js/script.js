@@ -132,3 +132,8 @@
   alert(person.name + " is " + person.age);
   // JS Objects Exercise 3
 }
+{
+  // The <button> element should do something when someone clicks on it. Try to fix it!
+  <button onclick="alert('Hello')">Click me.</button>;
+  // JS Events Exercise 1
+}
