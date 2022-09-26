@@ -38,3 +38,8 @@
   alert(10 * 5);
   //   JS Operators Exercise 1
 }
+{
+  // Divide 10 by 2, and alert the result:
+  alert(10 / 2);
+  // JS Operators Exercise 2
+}
