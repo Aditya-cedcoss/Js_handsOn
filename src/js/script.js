@@ -191,3 +191,9 @@
   txt = txt.toUpperCase();
   //  JS String Method Exercise 4
 }
+{
+  // Convert the value of txt to lower case.
+  let txt = "Hello World";
+  txt = txt.toLowerCase();
+  // JS String Method Exercise 4
+}
