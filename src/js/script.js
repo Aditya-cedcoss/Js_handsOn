@@ -183,5 +183,11 @@
   // Use the correct String method to replace the word "Hello" with the word "Welcome".
   let txt = "Hello World";
   txt = txt.replace("Hello", "Welcome");
-  // JS String Method Exercise 2
+  // JS String Method Exercise 3
+}
+{
+  // Convert the value of txt to upper case.
+  let txt = "Hello World";
+  txt = txt.toUpperCase();
+  //  JS String Method Exercise 4
 }
