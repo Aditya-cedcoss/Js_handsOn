@@ -142,3 +142,8 @@
   <button onclick="myFunction()">Click me.</button>;
   //   JS Events Exercise 2
 }
+{
+  // The <div> element should turn red when someone moves the mouse over it.
+  <div onmouseover="this.style.backgroundColor='red'">myDIV.</div>;
+  // JS Events Exercise 3
+}
