@@ -72,3 +72,11 @@
   }; //Object
   //  JS operator Exercise 6
 }
+{
+  // Execute the function named myFunction.
+  function myFunction() {
+    alert("Hello World!");
+  }
+  myFunction();
+  // JS operator Exercise 7
+}
