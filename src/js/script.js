@@ -46,5 +46,12 @@
 {
   // Alert the remainder when 15 is divided by 9.
   alert(15 % 9);
-  // JS Operators Exercise 2
+  // JS Operators Exercise 3
+}
+{
+  // Use the correct assignment operator that will result in x being 15 (same as x = x + y).
+  x = 10;
+  y = 5;
+  x += y;
+  //  JS Operators Exercise 4
 }
