@@ -103,3 +103,13 @@
   }
   // JS Function Exercise 4
 }
+{
+  // Alert "John" by extracting information from the person object.
+  const person = {
+    firstName: "John",
+    lastName: "Doe",
+  };
+
+  alert(person.firstName);
+  // JS Objects Exercise 1
+}
