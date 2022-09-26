@@ -152,5 +152,11 @@
   let txt = "Hello World!";
   let x = txt.length;
   alert(x);
-//  JS Strings Exercise 1
+  //  JS Strings Exercise 1
+}
+{
+  // Use escape characters to alert We are "Vikings"
+  let txt = 'We are "Vikings"';
+  alert(txt);
+  //   JS Strings Exercise 2
 }
