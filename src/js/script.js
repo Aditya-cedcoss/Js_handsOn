@@ -137,3 +137,8 @@
   <button onclick="alert('Hello')">Click me.</button>;
   // JS Events Exercise 1
 }
+{
+  // When the button is clicked, the function "myFunction" should be executed.
+  <button onclick="myFunction()">Click me.</button>;
+  //   JS Events Exercise 2
+}
