@@ -80,3 +80,11 @@
   myFunction();
   // JS Function Exercise 1
 }
+{
+  // Create a function called "myFunction".
+
+  function myFunction() {
+    alert("Hello World!");
+  }
+  // JS Function Exercise 2
+}
