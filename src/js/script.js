@@ -167,3 +167,9 @@
   alert(str1 + str2);
   //  JS String Exercise 3
 }
+{
+  // Convert the text into an UPPERCASE text:
+  let txt = "Hello World!";
+  txt = txt.touppercase();
+  // JS String Method Exercise 1
+}
