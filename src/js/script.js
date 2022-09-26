@@ -33,3 +33,8 @@
     age = 35;
   //   JS Variables Exercise 5
 }
+{
+  // Multiply 10 with 5, and alert the result:
+  alert(10 * 5);
+  //   JS Operators Exercise 1
+}
