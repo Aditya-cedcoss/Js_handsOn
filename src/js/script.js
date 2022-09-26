@@ -78,5 +78,5 @@
     alert("Hello World!");
   }
   myFunction();
-  // JS operator Exercise 7
+  // JS Function Exercise 1
 }
