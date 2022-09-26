@@ -88,3 +88,11 @@
   }
   // JS Function Exercise 2
 }
+{
+  // Make the function return "Hello".
+  function myFunction() {
+    return "Hello";
+  }
+  document.getElementById("demo").innerHTML = myFunction();
+  // JS Function Exercise 3
+}
