@@ -43,3 +43,8 @@
   alert(10 / 2);
   // JS Operators Exercise 2
 }
+{
+  // Alert the remainder when 15 is divided by 9.
+  alert(15 % 9);
+  // JS Operators Exercise 2
+}
