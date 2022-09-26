@@ -147,3 +147,10 @@
   <div onmouseover="this.style.backgroundColor='red'">myDIV.</div>;
   // JS Events Exercise 3
 }
+{
+  // Use the length property to alert the length of txt.
+  let txt = "Hello World!";
+  let x = txt.length;
+  alert(x);
+//  JS Strings Exercise 1
+}
