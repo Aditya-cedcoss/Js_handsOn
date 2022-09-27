@@ -365,3 +365,11 @@
   }
   // JS For Loops ex 1
 }
+{
+  // Create a loop that runs through each item in the fruits array.
+  const fruits = ["Apple", "Banana", "Orange"];
+  for (x in fruits) {
+    console.log(x);
+  }
+  // JS For Loops ex 2
+}
