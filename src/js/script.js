@@ -263,3 +263,8 @@
   d.setFullYear(2020);
   // JS Dates Ex 4
 }
+{
+  // Use the correct Math method to create a random number.
+  let r = Math.random();
+  // JS Math ex 1
+}
