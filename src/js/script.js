@@ -260,6 +260,6 @@
 {
   // Use the correct Date method to set the year of a date object to 2020.
   const d = new Date();
-  d.setFullyear(2020);
+  d.setFullYear(2020);
   // JS Dates Ex 4
 }
