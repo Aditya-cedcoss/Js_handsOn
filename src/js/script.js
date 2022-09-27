@@ -279,5 +279,7 @@
   // JS Math ex 3
 }
 {
-  
+  // Use the correct Math method to get the square root of 9.
+  let x = Math.sqrt(9);
+  // JS Math ex 4
 }
