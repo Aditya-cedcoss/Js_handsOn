@@ -283,3 +283,10 @@
   let x = Math.sqrt(9);
   // JS Math ex 4
 }
+{
+  // Choose the correct comparison operator to alert true, when x is greater than y.
+  x = 10;
+  y = 5;
+  alert(x > y);
+  // JS Comparison ex 1
+}
