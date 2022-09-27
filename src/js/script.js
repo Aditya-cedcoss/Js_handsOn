@@ -344,16 +344,24 @@
 }
 {
   // Add a section that will alert("Neither") if fruits is neither "banana" nor "apple".
-  switch(fruits) {
+  switch (fruits) {
     case "Banana":
-      alert("Hello")
+      alert("Hello");
       break;
     case "Apple":
-      alert("Welcome")
+      alert("Welcome");
       break;
-    
-  default:
+
+    default:
       alert("Neither");
   }
   // JS Switch ex 2
+}
+{
+  // Create a loop that runs from 0 to 9.
+  let i;
+  for (i = 0; i < 10; i++) {
+    console.log(i);
+  }
+  // JS For Loops ex 1
 }
