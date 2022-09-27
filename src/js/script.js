@@ -197,3 +197,9 @@
   txt = txt.toLowerCase();
   // JS String Method Exercise 4
 }
+{
+  // Get the value "Volvo" from the cars array.
+  const cars = ["Saab", "Volvo", "BMW"];
+  let x = cars[1];
+  // JS Arrays Exercise 1
+}
