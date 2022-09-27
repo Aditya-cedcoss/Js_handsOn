@@ -203,3 +203,9 @@
   let x = cars[1];
   // JS Arrays Exercise 1
 }
+{
+  // Change the first item of cars to "Ford".
+  const cars = ["Volvo", "Jeep", "Mercedes"];
+  cars[0] = "Ford";
+  // JS Arrays Exercise 2
+}
