@@ -227,4 +227,9 @@
   fruits.push("Kiwi");
   // JS array method Exercise 2
 }
-
+{
+  // Use the splice() method to remove "Orange" and "Apple" from fruits.
+  const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+  fruits.splice(1, 2);
+  // JS Array method Exercise 3
+}
