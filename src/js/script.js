@@ -239,3 +239,9 @@
   fruits.sort();
   // Js Array sort ex1
 }
+{
+  // Create a Date object and alert the current date and time.
+  const d = new Date();
+  alert(d);
+  // JS Dates Ex 1
+}
