@@ -273,3 +273,11 @@
   let x = Math.max(10, 20);
   // JS Math ex 2
 }
+{
+  // Use the correct Math method to round a number to the nearest integer.
+  let x = Math.round(5.3);
+  // JS Math ex 3
+}
+{
+  
+}
