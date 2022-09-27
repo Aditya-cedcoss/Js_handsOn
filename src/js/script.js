@@ -233,3 +233,9 @@
   fruits.splice(1, 2);
   // JS Array method Exercise 3
 }
+{
+  // Use the correct Array method to sort the fruits array alphabetically.
+  const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+  fruits.sort();
+  // Js Array sort ex1
+}
