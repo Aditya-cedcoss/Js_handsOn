@@ -311,3 +311,10 @@
   alert(voteable);
   // JS Comparison ex 4
 }
+{
+  // Fix the if statement to alert "Hello World" if x is greater than y.
+  if (x > y) {
+    alert("Hello World");
+  }
+  // JS Condition Ex 1
+}
