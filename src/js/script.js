@@ -215,4 +215,10 @@
   alert(cars.length);
   // Js arrays exercise 3
 }
+{
+  // Use the correct Array method to remove the last item of the fruits array.
+  const fruits = ["Banana", "Orange", "Apple"];
+  fruits.pop();
+  // JS array method Exercise 1
+}
 
